@@ -39,6 +39,18 @@ padding: 20px 30px 30px 20px;
 
 
 }
+.navContainer {
+  display: flex;
+  gap: 150px;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+   
+}
+
+.navContainer a {
+  margin-left: 100px;
+}
 
 
 
